@@ -1,0 +1,14 @@
+# Ignore build artifacts
+*.log
+*.tmp
+*.bak
+*.o
+*.so
+*.dll
+
+# Ignore IDE files
+.idea/
+*.iml
+
+# Ignore other files 
+node_modules/
